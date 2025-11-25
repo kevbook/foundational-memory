@@ -1,5 +1,7 @@
 # Real World Examples
 
+LLMs & AI agents have "shallow" memory (Mem0 or Letta), which store facts or summaries. We support multi-hop reasoning, and enables AI to understand context, causality, and preference evolution over time. **This is the breakthrough.** Our memory system doesn’t just store facts, it learns the shape of knowledge itself. This is not incremental improvement, it’s a step toward human-like AI memory and reasoning.
+
 To illustrate the practical value of this architecture, we present several concrete lifestyle scenarios where the hybrid memory system enables truly personalized, context-aware AI assistance.
 
 ### Example 1: Personal Health & Wellness Companion
