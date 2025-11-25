@@ -42,7 +42,7 @@ flowchart TB
 
 - **Graph**: Links this headache to last night's 5-hour sleep and skipped breakfast
 - **Vector**: Retrieves similar past episodes and what helped
-- **Manifold**: Notes stress trending upward, sleep quality declining
+- **Continuous Geometric Substrate/Manifold**: Notes stress trending upward, sleep quality declining
 
 > "I see you slept only 5 hours and skipped breakfast—both patterns that preceded your last 3 migraines. Your stress levels have been elevated this week. Last time, the magnesium supplement and a 20-minute nap helped. Would you like me to remind you about lunch today?"
 
@@ -92,7 +92,7 @@ flowchart LR
 
 - **Graph**: Knows loves Thai + spicy, avoids cilantro, reducing sodium, wants more protein
 - **Vector**: Finds recipes matching available ingredients
-- **Manifold**: Taste profile favors bold, savory flavors; recent trend toward more vegetables
+- **Continuous Geometric Substrate/Manifold**: Taste profile favors bold, savory flavors; recent trend toward more vegetables
 
 > "How about a Thai basil chicken stir-fry? You have chicken and bell peppers, it's ready in 25 minutes, hits your spicy preference, and I'll use coconut aminos instead of soy sauce to keep sodium low. I've left out the cilantro. Want me to add extra vegetables since you've been enjoying those lately?"
 
@@ -141,7 +141,7 @@ flowchart TB
 
 - **Graph**: Knows user loves hidden spots, hates crowds, partner is vegetarian, both love food markets
 - **Vector**: Finds Rome experiences similar to enjoyed past trips
-- **Manifold**: Travel style favors authentic, relaxed, food-focused experiences
+- **Continuous Geometric Substrate/Manifold**: Travel style favors authentic, relaxed, food-focused experiences
 
 > "Based on your travel style, skip the Colosseum at peak hours—go at 8am or get the underground tour for fewer crowds. You'll love Testaccio food market (like the one you enjoyed in Barcelona). For Sarah, I've found three highly-rated vegetarian trattorias in Trastevere, which has that 'hidden local' feel you loved in Lisbon. Want me to build a relaxed 4-day itinerary?"
 
@@ -194,7 +194,7 @@ flowchart TB
 
 - **Graph**: Links reading failures to evening fatigue; notes exercise enables more energy which helps reading
 - **Vector**: Finds similar past struggles and what worked
-- **Manifold**: Detects seasonal motivation dip, current stress from travel
+- **Continuous Geometric Substrate/Manifold**: Detects seasonal motivation dip, current stress from travel
 
 > "I notice your reading drops off in evenings when you're tired—especially after travel weeks. Here's what's worked before: audiobooks during your commute (you finished 3 books that way). Also, your exercise has been consistent, and historically when you exercise in the morning, you have more evening energy for reading. Want to try pairing them? Morning workout → evening reading as a wind-down ritual?"
 
@@ -244,7 +244,7 @@ flowchart LR
 
 - **Graph**: Lisa traveling Wed-Fri, Emma has soccer Wed, Jake has piano Fri, Mike handles pickups
 - **Vector**: Finds similar past busy weeks and how family managed
-- **Manifold**: Detects this is a high-complexity week requiring extra coordination
+- **Continuous Geometric Substrate/Manifold**: Detects this is a high-complexity week requiring extra coordination
 
 > "Busy week ahead! Lisa's traveling Wed-Fri, so Mike—you'll need to cover all pickups. Emma's soccer is Wednesday at 4pm (conflicts with your usual meeting, should I suggest rescheduling?). Jake's piano is Friday at 3pm. For meals: I'd suggest meal prepping Sunday since Lisa won't be here to cook. Thursday is pizza night anyway. Remember: no peanuts in any packed lunches for Emma's class due to a classmate's allergy. Want me to create a shared checklist?"
 
